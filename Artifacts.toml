@@ -1,0 +1,252 @@
+[[cohomCalg]]
+arch = "aarch64"
+git-tree-sha1 = "92db2f858bce34521e4fc44f6ab0ac982a1e4a61"
+os = "macos"
+
+    [[cohomCalg.download]]
+    sha256 = "d15129b416ad6ddbd12ed82125147575dd0210962bfe38c41bf22f7f30a1c8be"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.aarch64-apple-darwin.tar.gz"
+[[cohomCalg]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a0bb8f19f24fb61bf6797e6f7d463577754d2f37"
+libc = "glibc"
+os = "linux"
+
+    [[cohomCalg.download]]
+    sha256 = "9c79a658a61d71c0668b2a5d2370d0eed838d6f1e5c3baac32984f861800f248"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[cohomCalg]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ec9c90b6fe0046f505eef64886f709a4ea659117"
+libc = "glibc"
+os = "linux"
+
+    [[cohomCalg.download]]
+    sha256 = "7fc22d90a8f9df7024041f110fe9913f12d899168eef6f38840e29d2d518c566"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[cohomCalg]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "772886f80cc3958a5fa67fe1174515f29fac5e3a"
+libc = "musl"
+os = "linux"
+
+    [[cohomCalg.download]]
+    sha256 = "f12d840b799f470312ec4f6d074f79abcaafeade4c41f285a72e4ee429b1c6ba"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.aarch64-linux-musl-cxx03.tar.gz"
+[[cohomCalg]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "10a4555a4d53367974dae4520af51af6c7279610"
+libc = "musl"
+os = "linux"
+
+    [[cohomCalg.download]]
+    sha256 = "688331b82dfaf0cb36fef67c85469f9d0e996df1e33629a1b798577514eb0092"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.aarch64-linux-musl-cxx11.tar.gz"
+[[cohomCalg]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "28fbb271703fd3b0ce371c4c8401e57930e894f1"
+libc = "glibc"
+os = "linux"
+
+    [[cohomCalg.download]]
+    sha256 = "0b9233e072d84259d7c7c9430b8e3a42c29bf657e866be5307fbe0d2d83bc2fb"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[cohomCalg]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "05424804c2a282b05bd2f495496ed0b73e1e87ee"
+libc = "glibc"
+os = "linux"
+
+    [[cohomCalg.download]]
+    sha256 = "c4e621c5f88a87a39e570651bfd5c31d82f491970d23dff279746c4d6cb32459"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[cohomCalg]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0988651f5b4929e9e1b9511eb81b8beaa972d09c"
+libc = "musl"
+os = "linux"
+
+    [[cohomCalg.download]]
+    sha256 = "3aad6f824583519d6b91bbb1b45116e73017388d5e941f733fbbe2ae5f7c3130"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[cohomCalg]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "26094dbefe48f987c96c0310c5ff096369c9295f"
+libc = "musl"
+os = "linux"
+
+    [[cohomCalg.download]]
+    sha256 = "a2a54c43d79e93f6c6e6e216e3c57a92c7257a759e01bf4b880100286b73907b"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[cohomCalg]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c3d5c96475b9e1698ecdb8691480714902371ad6"
+libc = "glibc"
+os = "linux"
+
+    [[cohomCalg.download]]
+    sha256 = "5f38a599e14ed8041541aa18090ea358e25638a5184875ae036ac13d5fc7931f"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[cohomCalg]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "63ded7e062e9d81949bfe6033e97adef6dd81c39"
+libc = "glibc"
+os = "linux"
+
+    [[cohomCalg.download]]
+    sha256 = "ec0982b4eed3cc0184f7e61d1caf33380d1e307a79a587368650a59b00c08fa4"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[cohomCalg]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "63e166f6bd95cd33759ff4153e3a2ba2f57b0793"
+libc = "musl"
+os = "linux"
+
+    [[cohomCalg.download]]
+    sha256 = "902291af2d314184adf29b354306039b8fb6dba884d2d3836e4c37b4ec0a5646"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[cohomCalg]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e3a81ea69922b16177ca80b633315c8d646de31f"
+libc = "musl"
+os = "linux"
+
+    [[cohomCalg.download]]
+    sha256 = "68d7ac7309027d2c67913b5a33e908188a2f9c5128d060384d5f9af570c916be"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[cohomCalg]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9fe47fa10c33843faadab1aaf4b0fe49a3095d01"
+libc = "glibc"
+os = "linux"
+
+    [[cohomCalg.download]]
+    sha256 = "47babdc03e1b70631e616166dd8f73f0322f86a63618df858f198dd28e16a9ed"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.i686-linux-gnu-cxx03.tar.gz"
+[[cohomCalg]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "df117579ba9e9cac07c9aa77a56aff9bf2a67a17"
+libc = "glibc"
+os = "linux"
+
+    [[cohomCalg.download]]
+    sha256 = "4c827847bc90e8a52d9f70c41d52ea75787b7faa69f15c7494219fdb49c27f3b"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.i686-linux-gnu-cxx11.tar.gz"
+[[cohomCalg]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "585fc85789a45a22c5b80b36ccc6772cf9a955fe"
+libc = "musl"
+os = "linux"
+
+    [[cohomCalg.download]]
+    sha256 = "5b5c02d935a8380b55805520b3dc0fd75074f1b6274384ee1ca8d7bbb8255ddc"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.i686-linux-musl-cxx03.tar.gz"
+[[cohomCalg]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ac29202aef6190fcfa70ad77505e45f799622eb8"
+libc = "musl"
+os = "linux"
+
+    [[cohomCalg.download]]
+    sha256 = "2474d3ef603198602bb4fdcbc57a5d8696438b7b19d940350d96d6f655d2514b"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.i686-linux-musl-cxx11.tar.gz"
+[[cohomCalg]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2dea458deb150a7ba49a1cfc2e9a3a1617e215c1"
+libc = "glibc"
+os = "linux"
+
+    [[cohomCalg.download]]
+    sha256 = "f20fac48c1e334a71547789f60ba4981cdfc6c7c1458f1c30f221b8216306464"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[cohomCalg]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e7bd5ec620db276a3633153f72a38ec6fb90ceb4"
+libc = "glibc"
+os = "linux"
+
+    [[cohomCalg.download]]
+    sha256 = "f03e5918b1d82890f15daf2d1c99864ab2dc3ab5241a98965bccf3c0860f176d"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[cohomCalg]]
+arch = "x86_64"
+git-tree-sha1 = "1bac806f814885f5967aa7718cd9a3592682dc99"
+os = "macos"
+
+    [[cohomCalg.download]]
+    sha256 = "47dcab23a3c063d3cd157545b220ec68e1e41e6b7970a268a49c78079ac7230d"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.x86_64-apple-darwin.tar.gz"
+[[cohomCalg]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bf361af09a8c6a79a7f8586369d32291f1024b04"
+libc = "glibc"
+os = "linux"
+
+    [[cohomCalg.download]]
+    sha256 = "f12aa0182789e655f77adefcc3e172a076039378ed7a9a55e09787c583dbfb97"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[cohomCalg]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ad3f5d38f6f3360ea281f229ce4689ab02a4824e"
+libc = "glibc"
+os = "linux"
+
+    [[cohomCalg.download]]
+    sha256 = "99208e13864742f17ac585cf6cec83898d8716e039ce0484192cd5963365c670"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[cohomCalg]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "63f1139aafa132c7d9e167c8900296e6cad8f483"
+libc = "musl"
+os = "linux"
+
+    [[cohomCalg.download]]
+    sha256 = "2235d313637645d6df2659df98c562a1a1ce1f284624f940e248b99adce94005"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.x86_64-linux-musl-cxx03.tar.gz"
+[[cohomCalg]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b19ad6737b09c767865faad9ef0403278f20056c"
+libc = "musl"
+os = "linux"
+
+    [[cohomCalg.download]]
+    sha256 = "c84ed9aa8a0e97fa0d22190738029282eca54e90da4bb8a7d62b3eed0a2ca76f"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.x86_64-linux-musl-cxx11.tar.gz"
+[[cohomCalg]]
+arch = "x86_64"
+git-tree-sha1 = "4729712ecae29c1e4b83554e91997e546d63f7ed"
+os = "freebsd"
+
+    [[cohomCalg.download]]
+    sha256 = "a2d099cd22dcef68b0900b40fe32eb95d3fcdee03f24b8526e96bd46659d9b28"
+    url = "https://github.com/JuliaBinaryWrappers/cohomCalg_jll.jl/releases/download/cohomCalg-v0.32.0+0/cohomCalg.v0.32.0.x86_64-unknown-freebsd.tar.gz"
